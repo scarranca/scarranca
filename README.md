@@ -1,7 +1,7 @@
-- 💼 Currently building the best SaaS for startups in LATAM, in which we automate their financial administration gigstack.pro
+- 💼 Currently automating the post-revenue management of companies in LATAM, CoFounder and CEO @gigstack
 - 👋 Hi, I’m @scarranca
 - 👀 I’m interested in change people's life throught technology
-- 🌱 I’m currently learning UX/UI
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on startups
 - 📫 santiago.carranca@gigstack.io
 
